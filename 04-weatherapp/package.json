@@ -1,0 +1,17 @@
+{
+  "name": "04-weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "request": "^2.83.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}
