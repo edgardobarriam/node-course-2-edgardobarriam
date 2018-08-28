@@ -18,8 +18,8 @@
     "socket.io": "^2.1.1"
   },
   "devDependencies": {
-    "expect": "^23.0.1",
+    "expect": "^23.5.0",
     "mocha": "^5.2.0",
-    "nodemon": "^1.17.5"
+    "nodemon": "^1.18.3"
   }
 }
